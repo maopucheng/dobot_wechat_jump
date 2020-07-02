@@ -1,3 +1,9 @@
+
+在原作者的基础上修改了一下，主要是为了演示越疆机械手臂（dobot），用物理方法来打跳一跳。
+
+
+------------以下是原作者的说明。
+
 # 教你用 Python 来玩微信跳一跳
 [![GitHub stars](https://img.shields.io/github/stars/wangshub/wechat_jump_game.svg)](https://github.com/wangshub/wechat_jump_game/stargazers) [![GitHub forks](https://img.shields.io/github/forks/wangshub/wechat_jump_game.svg)](https://github.com/wangshub/wechat_jump_game/network) [![GitHub license](https://img.shields.io/github/license/wangshub/wechat_jump_game.svg)](https://github.com/wangshub/wechat_jump_game/blob/master/LICENSE)
 
